@@ -1,0 +1,21 @@
+{
+  "name": "zip",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^20.2.1",
+    "@hapi/inert": "^6.0.5",
+    "@hapi/vision": "^6.1.0",
+    "hapi-swagger": "^14.2.5",
+    "joi": "^17.6.0",
+    "node-stream-zip": "^1.15.0",
+    "unzipper": "^0.10.11",
+    "zlib": "^1.0.5"
+  }
+}
